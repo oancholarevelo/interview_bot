@@ -1,0 +1,6 @@
+speechrecognition
+pyaudio
+keyboard
+python-dotenv
+requests
+google-generativeai
