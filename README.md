@@ -1,4 +1,4 @@
-# AI Interview Assistant (v3.0)
+# AI Interview Assistant (v1.0)
 
 This is a desktop application that acts as an AI-powered interview assistant. It's designed to help you practice for interviews by generating answers based on a specific persona ("Oliver Revelo") that you can now fully customize.
 
