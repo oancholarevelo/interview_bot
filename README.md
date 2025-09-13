@@ -6,29 +6,21 @@ The application features a modern graphical user interface (GUI), supports speec
 
 ## ✨ Features
 
-  - **Modern Graphical User Interface**: A clean and responsive UI built with `ttkbootstrap` for a modern look and feel.
-  - **Answer Evaluation Mode**: Toggle a switch to get constructive AI feedback on *your own* interview answers.
-  - **Editable & Persistent Persona**: The AI's core personal context is fully editable within the app and is saved automatically for future sessions.
-  - **Customizable Questions**: Add, edit, and delete the list of predefined interview questions directly from the settings menu.
-  - **Conversation History**: Save your practice sessions to a JSON file and load them later to review your progress.
-  - **Model Selection**: Easily switch between different AI models from OpenRouter and Google AI.
-  - **Voice Input**: Ask questions using your voice with built-in speech recognition.
-  - **Streaming Responses**: AI responses are streamed in real-time as they are generated.
-  - **Utility Features**: Includes a splash screen on startup and a "Copy Last Response" button for convenience.
-  - **Global Hotkey**: Toggle the visibility of the application window with a global hotkey (**F9**).
+- **Modern Graphical User Interface**: A clean and responsive UI built with `ttkbootstrap` for a modern look and feel.
+- **Answer Evaluation Mode**: Toggle a switch to get constructive AI feedback on *your own* interview answers.
+- **Editable & Persistent Persona**: The AI's core personal context is fully editable within the app and is saved automatically for future sessions.
+- **Customizable Questions**: Add, edit, and delete the list of predefined interview questions directly from the settings menu.
+- **Conversation History**: Save your practice sessions to a JSON file and load them later to review your progress.
+- **Model Selection**: Easily switch between different AI models from OpenRouter and Google AI.
+- **Voice Input**: Ask questions using your voice with built-in speech recognition.
+- **Streaming Responses**: AI responses are streamed in real-time as they are generated.
+- **Utility Features**: Includes a splash screen on startup and a "Copy Last Response" button for convenience.
+- **Global Hotkey**: Toggle the visibility of the application window with a global hotkey (**F9**).
 
 ## 📋 Requirements
 
-  - Python 3.x
-  - The following Python libraries:
-      - `speechrecognition`
-      - `pyaudio`
-      - `keyboard`
-      - `python-dotenv`
-      - `requests`
-      - `google-generativeai`
-      - `ttkbootstrap`
-      - `Pillow`
+- Python 3.x
+- The Python libraries listed in `requirements.txt`.
 
 ## 🚀 Setup
 
@@ -38,7 +30,7 @@ The application features a modern graphical user interface (GUI), supports speec
     Open your terminal or command prompt and run the following command:
 
     ```bash
-    pip install speechrecognition pyaudio keyboard python-dotenv requests google-generativeai ttkbootstrap Pillow
+    pip install -r requirements.txt
     ```
 
 3.  **Create a `.env` file:**
