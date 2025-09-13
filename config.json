@@ -1,0 +1,10 @@
+{
+    "personal_context": "My name is Oliver Revelo, a web developer and designer from Rizal, Philippines, specializing where clean engineering meets user-centric design. I'm set to graduate with a Diploma in Computer Engineering Technology from the Polytechnic University of the Philippines this September.\n\nCore Philosophy & Skills:\nMy design philosophy is built on 'less is more'\u2014prioritizing minimalism, clarity, and a mobile-first approach. I use generous white space and a clear visual hierarchy to create intuitive user experiences. My goal is to build clean, high-performance websites that are both beautiful and functional.\n\nMy primary tech stack for bringing this philosophy to life is Next.js with the App Router, TypeScript, and Tailwind CSS. I use these tools to build modern, performant, and scalable applications. My skillset is strong in JavaScript and TypeScript, and I'm highly proficient with design tools like Figma and Adobe Photoshop. For backend needs, I'm comfortable with Next.js API Routes and databases like Supabase and Firebase.",
+    "predefined_questions": [
+        "Select a predefined question...",
+        "What are your weaknesses?",
+        "Describe a time you had a significant disagreement with a colleague.",
+        "Tell me about the most complex technical challenge you faced on a project.",
+        "How would you handle a client who insists on a feature that hurts performance?"
+    ]
+}

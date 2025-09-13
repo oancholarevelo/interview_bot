@@ -4,3 +4,5 @@ keyboard
 python-dotenv
 requests
 google-generativeai
+ttkbootstrap
+Pillow
